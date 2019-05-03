@@ -1,31 +1,4 @@
 //****************************************************************************************************
-//
-//		File:					sim3q3s.cpp
-//		
-//		Student:				Haleigh Cates
-//
-//		Assignment:	 			Program  #14
-//
-//		Course Name:			Data Structures I 
-//
-//		Course Number:			COSC 3050 - 01
-//
-//		Due:					December 19, 2018
-//
-//
-//		This program determines how long it takes to serve all arriving 
-//			customers using 3 queues and 3 servers.
-//
-//		Other files required:	
-//								node.h
-//								customer.h
-//								server.h
-//								queue.h
-//								customerList.txt
-//								trace.txt								
-//								assumptions.txt
-//		
-//****************************************************************************************************
 
 #include <iostream>
 #include <fstream>
